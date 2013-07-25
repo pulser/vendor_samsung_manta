@@ -21,4 +21,5 @@ PRODUCT_PACKAGES := \
     setfile \
     setfile_4e5 \
     setfile_6a3 \
-    libGLES_mali
+    libGLES_mali \
+    libRSDriverArm
